@@ -1,3 +1,4 @@
 1st local change
 2nd remote change
 3rd remote change
+4th remote change (happened while local git was disconnected)
